@@ -1,0 +1,38 @@
+[
+    {
+        "image" : "../assets/animeClgGirl.png",
+        "name"  : "College Girl"
+    },
+    {
+        "image" : "../assets/animeGirlSword.png",
+        "name"  : "Sword Girl"
+    },
+    {
+        "image" : "../assets/animeWitch.png",
+        "name"  : "Witch Factory"
+    },
+    {
+        "image" : "../assets/animeWizard.png",
+        "name"  : "Wizard"
+    },
+    {
+        "image" : "../assets/closeEyeGirl.png",
+        "name"  : "Closed Eyes Girl"
+    },
+    {
+        "image" : "../assets/dragon.png",
+        "name"  : "Dragon"
+    },
+    {
+        "image" : "../assets/kawaiiGirl.png",
+        "name"  : "Cute Girl"
+    },
+    {
+        "image" : "../assets/mangaSwordGirl.png",
+        "name"  : "Manga Girl"
+    },
+    {
+        "image" : "../assets/swordLady.png",
+        "name"  : "Sword Lady"
+    }
+]
